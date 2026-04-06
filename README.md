@@ -8,9 +8,9 @@ Automated test suite for the GlobalsQA demo banking application using Playwright
 - TypeScript
 
 ## Project Structure
-tests/          → test files
-pages/          → page object classes
-screenshots/    → captured screenshots from the test
+- tests/          → test files
+- pages/          → page object classes
+- screenshots/    → captured screenshots from the test
 
 ## Test Cases
 - Successful deposit and transaction verification
